@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/agnieszka/workspace/programowanie2014javacwieczenia/.metadata/.plugins/org.eclipse.jdt.core
+1175494123.index
+1531306560.index
+1818139491.index
